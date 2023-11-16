@@ -16,9 +16,3 @@ spring:
       hibernate:
         format_sql: true
     defer-datasource-initialization: true
-
-logging:
-  level:
-    org.springframework.boot.autoconfigure.logging: DEBUG
-    org.springframework.boot.context.properties: DEBUG
-
